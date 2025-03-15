@@ -1,49 +1,59 @@
-# CV-
-
-# Malik's CV
+# Hasan Ali's CV
 
 ## 📌 Personal Information
-- **Name:** Malik
-- **Location:** Sharaqpur Sharif
-- **Phone:** 0317-4328123
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Upwork:** [upwork.com/freelancers/yourprofile](https://www.upwork.com/freelancers/yourprofile)
+- **Name:** Hasan Ali
+- **Location:** Lahore, Pakistan
+- **Phone:** 03111479377
+- **Email:** [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hassan-ali-61580629a](https://www.linkedin.com/in/hassan-ali-61580629a)
+- **GitHub:** [github.com/Hasan-Ali158](https://github.com/Hasan-Ali158)
 
 ## 🎯 Summary
-Experienced **content writer** and **teacher** with expertise in **SEO, MS Office, and essay writing**. Passionate about creating engaging content and delivering high-quality work in both teaching and freelancing environments.
+I'm a **Data Scientist** with expertise in **data analysis, database management, and coding**, driven by a passion for **blockchain development**. I thrive on transforming data into actionable insights and exploring innovative tech solutions.
 
 ## 🎓 Education
-- **BS English Honors** – Government College University (GCU)
-- **Intermediate** – Government Graduate College
-- **Matriculation** – Government Girls School, Sharaqpur
+- **FSc.** – Punjab College of Science *(02/2021 - 04/2023)*
+- **Bachelor's in Data Science** – Punjab University College of Information and Technology *(09/2023 - 04/2027)*
+  - **Core Subjects:** DSA | OOP | Computer Organization | Assembly Language | Data Visualization
 
 ## 💼 Work Experience
-### **Content Writer | Upwork**  *(2023 - Present)*
-- Created SEO-optimized articles, blogs, and essays for clients worldwide.
-- Managed multiple projects, meeting deadlines with high-quality work.
-- Specialized in **MS Office, research-based writing, and content marketing**.
-
-### **Private School Teacher**  *(2 Years Experience)*
-- Taught English and managed classroom activities effectively.
-- Developed creative lesson plans to enhance student learning.
-- Actively participated in **teacher management society**.
+### **Campus Ambassador | AICP (Artificial Intelligence Community of Pakistan)** *(03/2023 - Present)*
+- Promoted AICP initiatives through social media and campus outreach.
+- Organized AI workshops, seminars, and webinars.
+- Built connections with faculty and students to boost AI awareness.
 
 ## 🛠 Skills
-- ✍️ **Content Writing & SEO**
-- 📝 **MS Office (Word, Excel, PowerPoint)**
-- 🎓 **Teaching & Curriculum Development**
-- 🔍 **Research & Editing**
-- 📊 **Data Entry & Management**
-- 🌐 **Freelancing & Client Communication**
+- 🐍 **Python** | C++ | Database Management
+- 📊 **Power BI** | **Excel** | SQL
+- 🔗 **Blockchain Development** | **Cryptocurrency Trading**
+- 📈 **Data Analysis** | **Numpy & Pandas** | **ML Models**
 
-## 🏆 Certifications & Achievements
-- **Certified in Digital Marketing & SEO**
-- **Recognized as a Top-Rated Freelancer on Upwork**
-- **Best Teacher Award (Private School)**
+## 📌 Personal Projects
+### **Analysis of StackOverflow Developers Survey**
+- Analyzed trends and demographics from the **2024 Stack Overflow Developer Survey**.
+- Data cleaning, exploratory analysis, visualization with **Matplotlib/Seaborn**, and statistical insights.
+- Delivered a comprehensive report on developer preferences and industry trends.
+
+### **Budget Management System**
+- Developed a **Python-based financial management application** with **SQL integration**.
+- **Features:**
+  - Income & Expense Tracking: Categorized financial transactions.
+  - Database Integration: Used **SQL** for secure data storage.
+  - GUI: Designed an intuitive interface with **Tkinter/PyQt**.
+  - Reporting: Generated financial summaries and trends.
+
+## 🏆 Certifications
+- **Microsoft - Foundations of Python**
+- **IBM - Tools for Data Science**
+- **IBM - What is Data Science**
+- **Google - Crash Course on Python**
+
+## 🎯 Interests
+- 💰 **Trading** | 🔐 **Cryptography** | 💻 **Coding**
+- ⚡ **Competitive Programming** | 🎯 **Solving Real-World Problems**
 
 ## 📩 Contact
-Feel free to reach out via **email** or **LinkedIn** for collaboration opportunities.
+Feel free to reach out via **email**, **LinkedIn**, or **GitHub** for collaboration opportunities.
 
 ---
 *This CV is formatted in Markdown for easy readability and conversion to other formats.*
