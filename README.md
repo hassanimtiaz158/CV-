@@ -23,10 +23,10 @@ I'm a **Data Scientist** with expertise in **data analysis, database management,
 - Built connections with faculty and students to boost AI awareness.
 
 ##  Skills
-- 🐍 **Python** | C++ | Database Management
-- 📊 **Power BI** | **Excel** | SQL
-- 🔗 **Blockchain Development** | **Cryptocurrency Trading**
-- 📈 **Data Analysis** | **Numpy & Pandas** | **ML Models**
+-  **Python** | C++ | Database Management
+-  **Power BI** | **Excel** | SQL
+-  **Blockchain Development** | **Cryptocurrency Trading**
+-  **Data Analysis** | **Numpy & Pandas** | **ML Models**
 
 ##  Personal Projects
 ### **Analysis of StackOverflow Developers Survey**
