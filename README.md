@@ -49,11 +49,9 @@ I'm a **Data Scientist** with expertise in **data analysis, database management,
 - **Google - Crash Course on Python**
 
 ##  Interests
-- 💰 **Trading** | 🔐 **Cryptography** | 💻 **Coding**
-- ⚡ **Competitive Programming** | 🎯 **Solving Real-World Problems**
+-  **Trading** |  **Cryptography** |  **Coding**
+-  **Competitive Programming** |  **Solving Real-World Problems**
 
-##  Contact
-Feel free to reach out via **email**, **LinkedIn**, or **GitHub** for collaboration opportunities.
 
 ---
 
